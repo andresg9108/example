@@ -1,0 +1,10 @@
+{
+  "name": "example",
+  "version": "0.1.0",
+  "description": "example",
+  "author": "Andres Gonzalez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
